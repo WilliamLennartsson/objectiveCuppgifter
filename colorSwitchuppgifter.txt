@@ -1,7 +1,6 @@
-1. Fixa buggen med label som står fel från början 
-2. Koppla grön och blå label 
-3. Skapa en reset-knapp 
-4. Skapa en knapp som inverterar färgen (0.2 blir 0.8, 0.9 blir 0.1) 5. Skapa en knapp som slumpar fram en helt ny färg Fortsättning (valfri) 1. Visa flera färger i en skala som passar ihop med den valda färgen 
+1. Skapa labels som visar rött, grönt och blått värde under sliders 
+2. Skapa en reset-knapp 
+3. Skapa en knapp som inverterar färgen (0.2 blir 0.8, 0.9 blir 0.1) 5. Skapa en knapp som slumpar fram en helt ny färg Fortsättning (valfri) 1. Visa flera färger i en skala som passar ihop med den valda färgen 
 
 2. Gör till ett spel där man ska matcha en färg som visas upp i en separat ruta, ny färg slumpas när man kommit nära nog. Animal Detector Skapa en app som innehåller fyra toggle-switchar (på/av) med olika labels, t.ex. "have wings", "large", “two legs”, "can swim", etc. En textetikett i appen talar om vilket djur som har de nuvarande egenskaperna. Exempel: Om “have wings” är på men “can fly” är avstängd så visas resultatet “penguin”
 
